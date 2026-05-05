@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Ese
 
-<!--
-**esesorhue-ai/esesorhue-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Enterprise transformation and delivery leader with experience operating across complex, regulated environments.
 
-Here are some ideas to get you started:
+## What I focus on
+- AI-enabled delivery and automation
+- Portfolio governance and programme execution
+- Flow metrics, predictability and delivery performance
+- Practical use of AI to improve reporting, backlog creation and decision-making
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Current focus
+Exploring how AI can be applied to improve delivery outcomes, reporting quality and decision-making in enterprise environments.
+
+## Tools & Experience
+Jira | Confluence | Power BI | Prompt Engineering | Delivery Analytics | APIs | ETL/ELT (working knowledge)
 -->
